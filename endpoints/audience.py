@@ -1,6 +1,4 @@
-from fastapi import APIRouter, UploadFile, File, HTTPException, Path
-import pandas as pd
-import io
+from fastapi import APIRouter, Path
 import requests
 import os
 
